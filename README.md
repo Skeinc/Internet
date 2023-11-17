@@ -5,3 +5,4 @@
 Посетите следующие ресурсы, чтобы узнать больше:
 - [Как работает интернет?](1.%20How%20does%20the%20internet%20work%3F/README.md)
 - [Что такое HTTP?](2.%20What%20is%20HTTP%3F/README.md)
+- [Что такое URL-адрес?](3.%20What%20is%20a%20URL%3F/README.md)
