@@ -7,3 +7,4 @@
 - [Что такое HTTP?](2.%20What%20is%20HTTP%3F/README.md)
 - [Что такое URL-адрес?](3.%20What%20is%20a%20URL%3F/README.md)
 - [Что такое домен и доменное имя?](4.%20What%20is%20a%20domain%20and%20a%20domain%20name/README.md)
+- [Что такое хостинг?](5.%20What%20is%20a%20hosting%3F/README.md)
